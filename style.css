@@ -295,7 +295,7 @@ section {
   }
   
   .about-pic {
-    border-radius: 2rem;
+    border-radius: 25rem;
   }
   
   .arrow {
@@ -355,15 +355,10 @@ section {
     justify-content: space-around;
   }
 
-  .size-fix {
-    height: 244.8px;
-    width: 244.8px;
-  }
   
   article {
     display: flex;
-    width: 10rem;
-    
+    width: 10rem;   
     gap: 0.5rem;
   }
   
